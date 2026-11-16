@@ -21,7 +21,7 @@ Russian and English are equal working languages of this project. / Русски�
 
 | English | Русский |
 |---|---|
-| [Article: Society of Creation](docs/en/Article_Society_of_Creation.docx) | [Статья: Общество созидания](docs/ru/Статья_Общество_созидания.docx) |
+| [Article: Society of Creation](docs/en/Article_Society_of_Creation.pdf) | [Статья: Общество созидания](docs/ru/Статья_Общество_Созидания.pdf) |
 | [Postulates — Draft 1.0](docs/en/Postulates_Edition_1.0.pdf) | [Постулаты — проектная редакция 1.0](docs/ru/Постулаты_редакция_1.0.pdf) |
 
 ## Participate / Участвовать
