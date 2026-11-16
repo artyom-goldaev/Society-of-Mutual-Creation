@@ -28,7 +28,7 @@
 - [Постулаты — проектная редакция 1.0 (PDF)](docs/ru/Постулаты_редакция_1.0.pdf)
 
 ### English
-- [Article — Society of Creation](docs/en/Article_Society_of_Creation.docx)
+- [Article — Society of Creation](docs/en/Article_Society_of_Creation.pdf)
 - [Postulates — Draft Edition 1.0 (PDF)](docs/en/Postulates_Edition_1.0.pdf)
 
 Документы размещены в исходных предоставленных форматах. Русский и английский тексты предназначены для использования как соответствующие языковые версии. Если вы обнаружите расхождение в смысле, создайте обсуждение или Issue и укажите соответствующие фрагменты обоих текстов.
