@@ -16,7 +16,7 @@ The project is a proposal for discussion and development. Publication here does 
 
 ## Start here
 
-1. Read the [Article: Society of Creation](docs/en/Article_Society_of_Creation.docx).
+1. Read the [Article: Society of Creation](docs/en/Article_Society_of_Creation.pdf).
 2. Read the [Postulates of the Society of Mutual Creation — Draft Edition 1.0](docs/en/Postulates_Edition_1.0.pdf).
 3. Compare the [Russian-language documents](docs/ru/).
 4. Join the discussion and propose improvements.
@@ -24,11 +24,11 @@ The project is a proposal for discussion and development. Publication here does 
 ## Documents
 
 ### English
-- [Article — Society of Creation](docs/en/Article_Society_of_Creation.docx)
+- [Article — Society of Creation](docs/en/Article_Society_of_Creation.pdf)
 - [Postulates — Draft Edition 1.0 (PDF)](docs/en/Postulates_Edition_1.0.pdf)
 
 ### Русский
-- [Статья — Общество созидания](docs/ru/Статья_Общество_созидания.docx)
+- [Статья — Общество созидания](docs/ru/Статья_Общество_Созидания.pdf)
 - [Постулаты — проектная редакция 1.0 (PDF)](docs/ru/Постулаты_редакция_1.0.pdf)
 
 The documents are provided in their original submitted formats. The Russian and English texts are intended as corresponding language versions; if you identify a difference in meaning, please open a discussion or issue and indicate the relevant passage in both versions.
