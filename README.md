@@ -1,38 +1,41 @@
-# Society of Mutual Creation · Общество взаимного созидания
+# Society of Creation
 
-**An open international research and community project / Открытый международный исследовательский проект и сообщество**
+[Русская версия](README.ru.md)
 
-Initiated by / Инициатор: **Artyom Goldaev**
+## Energy of the Stars
 
-Choose your language / Выберите язык:
+We must reach for the stars, for that is where the future of humanity lies. Over time, our own star will cool down. Without the Sun, there will be no life unless we create a sun of our own. Whether we aim to reach another star or create our own, we need energy.
 
-- [English — project overview, documents and participation](README_EN.md)
-- [Русский — описание проекта, документы и участие](README_RU.md)
+## The financial system and the economy
 
-## Project in brief / Кратко о проекте
+Throughout my life, I have observed, analyzed, and studied our economy and financial system through my work processes. It was fascinating until I realized the fictitious nature of the financial system and the flaws of the economy in the form in which they currently exist in the world.
 
-**English:** An open international workspace for discussing the Society of Mutual Creation, reviewing its foundational Postulates, and collaboratively developing the mechanisms and procedures for a voluntary, decentralized society based on mutual creation.
+The year 2008 showed just how out of touch the financial system is with the real state of affairs. The monetary system is irrelevant to the physical assets it was meant to represent. Money used to be backed by gold, but attempts to exercise the right to exchange paper for metal failed, and the gold standard lost its force. Monetary units became fictitious, yet they continued to serve as a means of settlement without possessing any real value. Because money has no real value, issuers gained the ability to manipulate the money supply—and consequently the financial system and the economy—at their own discretion, harming both the economy as a whole and the holders of these monetary units. Inflation, credit, and other terms used to justify the manipulation of fictitious values indicate that the monetary system has outlived its usefulness and requires the attention of all society.
 
-**Русский:** Открытая международная площадка для обсуждения Общества взаимного созидания, проверки его основополагающих Постулатов и совместной разработки механизмов и процедур добровольного децентрализованного общества, основанного на взаимном созидании.
+## The need for a different path
 
-Russian and English are equal working languages of this project. / Русский и английский — равноправные рабочие языки проекта.
+Trends in the global economy show that in pursuit of profit, some people who produce goods strive at all costs to obtain as many monetary units as possible at the expense of everyone else's health and the environment. They want to get everything here and now, without caring about future generations, which include their own descendants. These trends are destructive to society as a whole. Society is destroying itself from within.
 
-## Core documents / Основные документы
+If we continue in the same vein, the consequences will be catastrophic. However, there can be another scenario for the development of society. Destructive trends and ruin can be replaced by constructive ones and creation.
 
-| English | Русский |
-|---|---|
-| [Article: Society of Creation](docs/en/Article_Society_of_Creation.pdf) | [Статья: Общество созидания](docs/ru/Статья_Общество_Созидания.pdf) |
-| [Postulates — Draft 1.0](docs/en/Postulates_Edition_1.0.pdf) | [Постулаты — проектная редакция 1.0](docs/ru/Постулаты_редакция_1.0.pdf) |
+Technologies are developing rapidly, and society can evolve in step with the times. Modern society must use resources rationally to ensure its continued existence. It will require reconsidering the very foundation of society to achieve its primary goal: survival.
 
-## Participate / Участвовать
+## The concept of a new society
 
-- [Contributing guidelines / Правила участия](CONTRIBUTING.md)
-- [Discussion guidelines / Принципы обсуждения](DISCUSSIONS.md)
-- Use GitHub Discussions for open dialogue and Issues for specific corrections or proposals.
-- Используйте GitHub Discussions для открытого диалога, а Issues — для конкретных замечаний и предложений.
+I have developed a concept for a new society based on voluntary participation and the fair distribution of resources and goods, which holds as its core values the preservation of human nature and harmony with the environment. The transition to this new model of society is non-violent, gradual, and evolutionary. It will likely take more than one generation to transition to these new realities, or perhaps technological advancement will act as a catalyst for societal evolution.
 
-## License / Лицензия
+I propose for discussion a set of societal postulates that we will edit and adopt together. These postulates are imbued with the principles of mutual creation, a moneyless system, the public distribution of resources and goods, and energy accounting. They establish decentralized governance while preventing the concentration of power and domination over others. Ultimately, they will serve as the foundation for developing the implementation mechanisms and procedures necessary for society to function.
 
-Unless otherwise stated, original project materials are licensed under **CC BY 4.0**. / Если не указано иное, оригинальные материалы проекта распространяются на условиях **CC BY 4.0**.
+## From an idea to practical implementation
 
-[License details / Условия лицензии](LICENSE) · [Official legal code / Официальный текст](https://creativecommons.org/licenses/by/4.0/legalcode)
+The idea of creating a new society may seem unattainable, but we can start with a small group of people. It will require putting into practice a core set of principles that we agree upon. If the results are promising, new members may join, and the community will grow.
+
+Join us — I will respond to everyone. This project offers an opportunity to apply both your professional skills and your life experience, the value of which will form the foundation of a creative society.
+
+I have attached the [“Draft Postulates of the Society of Mutual Creation”](https://github.com/artyom-goldaev/Society-of-Mutual-Creation/blob/main/docs/en/Postulates_Edition_1.0.pdf).
+
+Sincerely,
+
+Artyom Goldaev
+
+15.11.2026
