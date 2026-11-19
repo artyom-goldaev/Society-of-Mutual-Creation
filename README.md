@@ -2,6 +2,8 @@
 
 [Русская версия](README.ru.md)
 
+[Discussion Guide / Навигация по обсуждениям](https://github.com/artyom-goldaev/Society-of-Mutual-Creation/discussions/1)
+
 ## Energy of the Stars
 
 We must reach for the stars, for that is where the future of humanity lies. Over time, our own star will cool down. Without the Sun, there will be no life unless we create a sun of our own. Whether we aim to reach another star or create our own, we need energy.
@@ -33,6 +35,8 @@ The idea of creating a new society may seem unattainable, but we can start with 
 Join us — I will respond to everyone. This project offers an opportunity to apply both your professional skills and your life experience, the value of which will form the foundation of a creative society.
 
 I have attached the [“Draft Postulates of the Society of Mutual Creation”](https://github.com/artyom-goldaev/Society-of-Mutual-Creation/blob/main/docs/en/Postulates_Edition_1.0.pdf).
+
+[Discussion Guide / Навигация по обсуждениям](https://github.com/artyom-goldaev/Society-of-Mutual-Creation/discussions/1)
 
 Sincerely,
 
