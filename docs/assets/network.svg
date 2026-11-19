@@ -1,0 +1,17 @@
+<svg viewBox="0 0 440 330" role="img" aria-label="A network of independent people and communities connected through mutual creation" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b5e6dc"/><stop offset="1" stop-color="#5eb7ac"/></linearGradient></defs>
+<g fill="none" stroke="#8dd0c5" stroke-opacity=".52" stroke-width="1.7">
+<path d="M220 165 105 82 63 188 156 270 220 165 335 82 380 190 283 270 220 165"/>
+<path d="M105 82 335 82M63 188 380 190M156 270 283 270M105 82 63 188M335 82 380 190M156 270 63 188M283 270 380 190"/>
+<path d="M105 82 220 165 335 82M63 188 220 165 380 190M156 270 220 165 283 270"/>
+</g>
+<g fill="#173e49" stroke="url(#g)" stroke-width="3">
+<circle cx="220" cy="165" r="24"/><circle cx="105" cy="82" r="17"/><circle cx="335" cy="82" r="17"/>
+<circle cx="63" cy="188" r="17"/><circle cx="380" cy="190" r="17"/><circle cx="156" cy="270" r="17"/><circle cx="283" cy="270" r="17"/>
+</g>
+<g fill="#c4eee5">
+<circle cx="220" cy="165" r="7"/><circle cx="105" cy="82" r="5"/><circle cx="335" cy="82" r="5"/>
+<circle cx="63" cy="188" r="5"/><circle cx="380" cy="190" r="5"/><circle cx="156" cy="270" r="5"/><circle cx="283" cy="270" r="5"/>
+</g>
+<g fill="#a8ddd3" opacity=".9"><circle cx="220" cy="165" r="39" opacity=".08"/><circle cx="105" cy="82" r="29" opacity=".08"/><circle cx="335" cy="82" r="29" opacity=".08"/></g>
+</svg>
