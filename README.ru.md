@@ -4,6 +4,8 @@
 
 [Discussion Guide / Навигация по обсуждениям](https://github.com/artyom-goldaev/Society-of-Mutual-Creation/discussions/1)
 
+[How to Participate / Как участвовать в проекте](HOW_TO_PARTICIPATE.md)
+
 ## Энергия звёзд
 
 Нужно стремиться к звёздам, там будущее человечества. Наша спустя время остынет. Без Солнца жизни не будет, если не создать своё солнце. Достичь другой звезды или создать свою - нам нужна энергия.
@@ -37,6 +39,8 @@
 Прилагаю [«Проект Постулатов Общества Взаимного Созидания»](https://github.com/artyom-goldaev/Society-of-Mutual-Creation/blob/main/docs/ru/%D0%9F%D0%BE%D1%81%D1%82%D1%83%D0%BB%D0%B0%D1%82%D1%8B_%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D1%8F_1.0.pdf).
 
 [Discussion Guide / Навигация по обсуждениям](https://github.com/artyom-goldaev/Society-of-Mutual-Creation/discussions/1)
+
+[How to Participate / Как участвовать в проекте](HOW_TO_PARTICIPATE.md)
 
 С уважением,
 
