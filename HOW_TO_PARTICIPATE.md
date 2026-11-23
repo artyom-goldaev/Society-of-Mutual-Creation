@@ -1,4 +1,4 @@
-**Русская версия: [HOW_TO_PARTICIPATE.ru.md](HOW_TO_PARTICIPATE.ru.md)**
+[Русская версия](HOW_TO_PARTICIPATE.ru.md)
 
 Welcome to the open space for the collaborative development of the Society of Mutual Creation!
 
@@ -8,7 +8,7 @@ Anyone can contribute an idea, ask a question, share knowledge, discuss existing
 
 ---
 
-## ## 1. Getting Started / С чего начать
+## 1. Getting Started
 
 First, open [Society of Mutual Creation — Open Development](https://github.com/users/artyom-goldaev/projects).
 
@@ -22,7 +22,7 @@ We recommend starting with three steps:
 
 ---
 
-## ## 2. Navigating the Project / Как ориентироваться в проекте
+## 2. Navigating the Project
 
 The project has two main views. You can switch between them using the tabs at the top of the workspace.
 
@@ -56,7 +56,7 @@ It is convenient for browsing and finding materials by direction, type of work, 
 
 ---
 
-## ## 3. What the Statuses Mean / Что означают статусы
+## 3. What the Statuses Mean
 
 Cards move between stages as the work develops.
 
@@ -72,7 +72,7 @@ Important: the status “Done” means that a specific piece of work has been co
 
 ---
 
-## ## 4. How to Propose an Idea or Create a New Topic / Как предложить свою идею или создать новую тему
+## 4. How to Propose an Idea or Create a New Topic
 
 If you want to propose a new idea, raise a question, or draw attention to a problem:
 
@@ -91,7 +91,7 @@ Once created, the card can be added to the overall Project.
 
 ---
 
-## ## 5. How to Participate in Existing Discussions / Как участвовать в обсуждении существующих тем
+## 5. How to Participate in Existing Discussions
 
 If you are interested in a card that has already been created:
 
@@ -107,7 +107,7 @@ Disagreement and constructive criticism are welcome.
 
 ---
 
-## ## 6. The Difference Between Issues and Discussions / Чем Issues отличаются от Discussions
+## 6. The Difference Between Issues and Discussions
 
 The project uses two tools for different purposes.
 
@@ -121,7 +121,7 @@ You do not need to create a new Discussion if the topic already exists.
 
 ---
 
-## ## 7. How to Join Practical Work / Как присоединиться к практической работе
+## 7. How to Join Practical Work
 
 If you want to do more than discuss ideas and take a direct part in developing the project:
 
@@ -136,7 +136,7 @@ This does not grant management authority or the right to make decisions unilater
 
 ---
 
-## ## 8. A Few Important Principles / Несколько важных принципов
+## 8. A Few Important Principles
 
 We want the project to remain an open space for mutual creation.
 
@@ -154,7 +154,7 @@ Please respect other participants and try to explain your point of view.
 
 ---
 
-## ## Not Sure Where to Start? / Не знаете, с чего начать?
+## Not Sure Where to Start?
 
 That is perfectly fine. You can start with a simple question or comment.
 
